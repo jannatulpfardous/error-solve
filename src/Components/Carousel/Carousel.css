@@ -1,0 +1,17 @@
+.img-car{
+    
+    object-fit: cover;
+    height: 600px;
+    width:100%;
+}
+
+
+@media only screen and (max-width: 600px) {
+   .img-car{
+   
+       object-fit: cover;
+       height: 350px;
+       width: 100%;
+  }
+  
+ }

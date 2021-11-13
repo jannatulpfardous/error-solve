@@ -1,0 +1,121 @@
+.lipstick form {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  .lipstick h1 {
+    font-weight: 100;
+    color: rgb(32, 26, 26);
+    text-align: center;
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgb(79, 98, 148);
+  }
+  
+  .lipstick .form {
+    background: #0e101c;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .lipstick p {
+    color: #914286;
+  }
+  
+  .lipstick p::before {
+    display: inline;
+    content: "⚠ ";
+  }
+  
+  .lipstick input {
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    border-radius: 4px;
+    border: 1px solid rgb(37, 35, 35);
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    font-size: 14px;
+  }
+  
+  .lipstick label {
+    line-height: 2;
+    text-align: left;
+    display: block;
+    margin-bottom: 13px;
+    margin-top: 20px;
+    color: rgb(37, 28, 28);
+    font-size: 14px;
+    font-weight: 200;
+  }
+  
+  .lipstick button[type="submit"],
+  .lipstick input[type="submit"] {
+    background: #853781;
+    color: rgb(252, 243, 243);
+    text-transform: uppercase;
+    border: none;
+    margin-top: 40px;
+    padding: 20px;
+    font-size: 16px;
+    font-weight: 100;
+    letter-spacing: 10px;
+  }
+  
+  .lipstick button[type="submit"]:hover,
+  .lipstick input[type="submit"]:hover {
+    background: #322e58;
+  }
+  
+  .lipstick button[type="submit"]:active,
+  .lipstick input[type="button"]:active,
+  .lipstick input[type="submit"]:active {
+    transition: 0.3s all;
+    transform: translateY(3px);
+    border: 1px solid transparent;
+    opacity: 0.8;
+  }
+  
+  .lipstick input:disabled {
+    opacity: 0.4;
+  }
+  
+  .lipstick input[type="button"]:hover {
+    transition: 0.3s all;
+  }
+  
+  .lipstick button[type="submit"],
+  .lipstick input[type="button"],
+  .lipstick input[type="submit"] {
+    -webkit-appearance: none;
+  }
+  
+  
+  
+  .lipstick button[type="button"] {
+    display: block;
+    appearance: none;
+    background: #333;
+    color: rgb(221, 215, 215);
+    border: none;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    border-radius: 4px;
+  }
+  
+  .lipstick hr {
+    margin-top: 30px;
+  }
+  
+  .lipstick button {
+    display: block;
+    appearance: none;
+    margin-top: 40px;
+    border: 1px solid #333;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    border-radius: 4px;
+  }
+  
+  
+   

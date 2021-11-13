@@ -1,70 +1,80 @@
-# Getting Started with Create React App
+### Nail polish
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Nail polish (also known as nail varnish or nail enamel) is a lacquer that can be applied to the human fingernail or toenails to decorate and protect the 
+nail plates. The formula has been revised repeatedly to enhance its decorative effects and to suppress cracking or peeling. Nail polish consists of a mix of
+ an organic polymer and several other components that give it colors and textures.[1] Nail polishes come in all shades of color and play a significant part 
+in manicures or pedicures.
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+### Base coat
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This type of nail polish is a clear, milky-colored, or opaque pink polish formula that is used specifically before applying nail polish to the nail.Its 
+purpose is to strengthen nails, restore moisture to the nail, and help polish adhere to the nail. It prevents staining and extends the lifespan of the 
+manicure.[13] Some base coats are marketed as "ridge fillers", and can create a smooth surface, de-emphasizing the ridges that can appear on unbuffed nails.
+Some base coats, called "peel off base coats", allow the user to peel off their nail polish without using a remover.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Top coat
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This type of nail polish is a clear colored polish formula that is used specifically after applying nail polish to the nail.It forms a hardened barrier for 
+the nail that can prevent chipping, scratching and peeling. Many topcoats are marketed as "quick-drying." Topcoats can help the underlying colored polish
+dry quickly as well. It gives the polish a more finished and desired look and may help to keep the polish on longer.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Gel  Nail polish
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Gel polish is a long-lasting variety of nail polish made up of a type of methacrylate polymer. It is painted on the nail similar to traditional nail polish,
+but does not dry. Instead it is cured under an ultraviolet lamp or ultraviolet LED. While regular nail polish formulas typically last two to seven days 
+without chipping, gel polish can last as long as two weeks with proper application and home care.Gel polish can be more difficult to remove than regular nail
+polish. It is usually removed by soaking the nails in pure acetone (the solvent used in most nail polish removers) for five to fifteen minutes,depending on
+the formula.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Matte  Nail polish
 
-### Code Splitting
+Matte polish is like regular polish, but has a purposely dull finish rather than a shine.It can be purchased as a regular base coat in ranges of differentcolors. 
+Matte nail polish can also be found in a topcoat.Matte topcoat is most useful for painting over any dry base color, giving it a different appearance.
+The matte topcoat polish will dull the shine from aregular base coat polish. Matte polish has become very popular through the years, particularly since it
+can be used in nail art applications, where designcan be created on the nail using the contrast of both shiny and matte surfaces.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
